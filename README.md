@@ -44,7 +44,7 @@ https://github.com/pjaew94/code-test-express
     
 4\. Made a button, when clicked, sorts the member list by highest subscription price to lowest subscription price.<br/>
 
-&emsp;4\.a) This was possible to do with the member's subscription_id, but I chose to sort by price itself. Reasoning is that maybe in a real world scenerio, new subscription plans and their prices wouldn't increase/decrease in respect to it's ID.<br/>
+&emsp;4\.a) This was possible to do with the member's subscription_id, but I chose to sort by price itself. Reasoning is that maybe in a real world scenerio, new subscription &emsp;plans and their prices wouldn't increase/decrease in respect to it's ID.<br/>
     
 5\. Created function to calculate the average of all members subscription prices.<br/>
 
