@@ -1,4 +1,4 @@
-## Set Up
+# Set Up
 
 1\. Ensure that the server for this application is running on port 5000 before starting.
 You can find the server with part 1 task completed by me here:
@@ -10,9 +10,9 @@ https://github.com/pjaew94/code-test-express
 
 4\. Navigate to http://localhost:3000/ to see the application.
 
-## Run Down
+# Run Down
 
-# Tech Stack
+## Tech Stack
 
 *NextJS - React Framework<br/>
 *ReactJS - Frontend Framework<br/>
@@ -21,7 +21,7 @@ https://github.com/pjaew94/code-test-express
 *AdobeXD - Mock Up<br/>
 
 
-# Why The Tech Stack?
+## Why The Tech Stack?
 
 1\. Before starting to code, I came up with a rough sketch and design on how the final result should look like using AdobeXD. <br/>
 
@@ -32,7 +32,7 @@ https://github.com/pjaew94/code-test-express
 4\. Typescript was used over Javascript to prevent runtime errors. Also the autocomplete while developing is very nice.<br/>
 
 
-# Steps
+## Steps
 
 1\. Create simple mock up using AdobeXD. <br/>
 
