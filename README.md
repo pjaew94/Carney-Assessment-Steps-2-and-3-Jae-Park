@@ -14,11 +14,11 @@ https://github.com/pjaew94/code-test-express
 
 ## Tech Stack
 
-*NextJS - React Framework<br/>
-*ReactJS - Frontend Framework<br/>
-*TailwindCSS - Styling<br/>
-*Typescript - Programming Language<br/>
-*AdobeXD - Mock Up<br/>
+* NextJS - React Framework<br/>
+* ReactJS - Frontend Framework<br/>
+* TailwindCSS - Styling<br/>
+* Typescript - Programming Language<br/>
+* AdobeXD - Mock Up<br/>
 
 
 ## Why The Tech Stack?
