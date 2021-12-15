@@ -1,6 +1,6 @@
 ## Set Up
 
-1\. Ensure that the server for this application is running on port 5000 before starting
+1\. Ensure that the server for this application is running on port 5000 before starting.
 You can find the server with part 1 task completed by me here:
 https://github.com/pjaew94/code-test-express
 
