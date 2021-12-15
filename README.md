@@ -24,4 +24,4 @@ https://github.com/pjaew94/code-test-express
 2\. I used ReactJS as it allows more organized code and simple state management. I also paired React with NextJS to fetch the data from server side before the client side gets rendered (unnecessary overkill, but it does prevent the "flash" of no content before the data is available on the client side if fetched with useEffect hook). 
 3\. Styling was done with TailwindCSS as it allows easy mobile to desktop responsive development, whereas styling with style sheets would require multiple media queries and className assignments. 
 4\. Typescript was used over Javascript to prevent runtime errors. Also the autocomplete while developing is very nice.
-5\. 
+5\. s
